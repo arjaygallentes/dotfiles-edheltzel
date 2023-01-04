@@ -1,6 +1,6 @@
 [user]
-  name  = Ed Heltzel
-  email = ed@rainyday.media
+  name  = Arjay Gallentes
+  email = agallentes.dev@gmail.com
 	signingkey = 1A1DCDA4862DF3B8
 
 [github]
@@ -215,5 +215,5 @@ downtags = fetch --tags
   defaultBranch = master
 
 # This next lines include Netlify's Git Credential Helper configuration in your Git configuration.
-[include]
-  path = /Users/ed/Library/Preferences/netlify/helper/git-config
+#[include]
+#  path = /Users/ed/Library/Preferences/netlify/helper/git-config

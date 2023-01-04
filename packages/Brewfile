@@ -107,7 +107,7 @@ brew 'tmux'
 brew 'topgrade'
 brew 'tree'
 brew 'unzip'
-brew 'vagrant'
+#brew 'vagrant'
 brew 'watchexec'
 brew 'webp'
 brew 'wget'
@@ -115,17 +115,17 @@ brew 'z'
 brew 'zaquestion/tap/lab'
 brew 'zip'
 
-cask 'adobe-creative-cloud'
+#cask 'adobe-creative-cloud'
 cask 'alfred'
 cask 'authy'
-cask 'brave-browser'
+#cask 'brave-browser'
 cask 'choosy'
 cask 'cyberduck'
 cask 'discord'
 cask 'docker'
-cask 'dropbox'
+#cask 'dropbox'
 cask 'figma'
-cask 'firefox-developer-edition'
+#cask 'firefox-developer-edition'
 cask 'font-fira-code-nerd-font'
 cask 'font-inter'
 cask 'font-jetbrains-mono-nerd-font'
@@ -134,13 +134,13 @@ cask 'hiddenbar'
 cask 'iina'
 cask 'insomnia'
 cask 'imageoptim'
-cask 'iterm2'
+#cask 'iterm2'
 #cask 'itsycal'
 cask 'karabiner-elements'
 cask 'namechanger'
-cask 'nucleo'
+#cask 'nucleo' icon library
 cask 'openinterminal'
-cask 'principle'
+# cask 'principle' design animations
 cask 'qlcolorcode'
 cask 'qlimagesize'
 cask 'qlmarkdown'
@@ -148,23 +148,24 @@ cask 'qlstephen'
 cask 'quicklook-csv'
 cask 'quicklook-json'
 cask 'raycast'
-cask 'sequel-pro'
-cask 'dbeaver-community'
-cask 'sketch'
-cask 'typora'
-cask 'visual-studio-code-insiders'
+#cask 'sequel-pro' database mysql
+#cask 'dbeaver-community' databases
+#cask 'sketch' design tool
+#cask 'typora' markdown
+#cask 'visual-studio-code-insiders'
+cask 'visual-studio-code'
 cask 'webpquicklook'
 
-mas 'Affinity Designer', id: 824171161
-mas 'Affinity Photo', id: 824183456
-mas 'Amphetamine', id: 937984704
-mas 'ColorSlurp' id: 1287239339
-mas 'Icon Slate', id: 439697913
-mas 'Invoice Ninja V5', id: 1503970375
-mas 'Just Focus', id: 1142151959
-mas 'Keynote', id: 409183694
-mas 'Bitwarden', id: 1352778147
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
-mas 'WebPonize', id: 1526039365
+# mas 'Affinity Designer', id: 824171161
+# mas 'Affinity Photo', id: 824183456
+# mas 'Amphetamine', id: 937984704
+# mas 'ColorSlurp' id: 1287239339
+# mas 'Icon Slate', id: 439697913
+# mas 'Invoice Ninja V5', id: 1503970375
+# mas 'Just Focus', id: 1142151959
+# mas 'Keynote', id: 409183694
+# mas 'Bitwarden', id: 1352778147
+# mas 'Numbers', id: 409203825
+# mas 'Pages', id: 409201541
+# mas 'WebPonize', id: 1526039365
 #mas 'Xcode', id: 497799835
