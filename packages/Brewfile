@@ -30,7 +30,6 @@ brew 'ctags'
 brew 'curl'
 brew 'dart'
 brew 'deno'
-brew 'displaylink'
 brew 'dive'
 brew 'doctl'
 brew 'duti'
@@ -154,6 +153,7 @@ cask 'raycast'
 #cask 'typora' markdown
 cask 'visual-studio-code'
 cask 'webpquicklook'
+cask 'displaylink'
 
 # mas 'Affinity Designer', id: 824171161
 # mas 'Affinity Photo', id: 824183456
