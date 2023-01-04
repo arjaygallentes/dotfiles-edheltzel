@@ -18,6 +18,6 @@ jobs:
     - name: Check versions of pre-installed software/system
       run: ./.cisupport/pre.sh
     - name: Execute full install
-      run:  ./setup.sh
+      run:  ./bootstrap.sh
     - name: Check installed versions 
       run: ./.cisupport/post.sh
