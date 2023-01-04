@@ -1,10 +1,10 @@
 [user]
   name  = Arjay Gallentes
   email = agallentes.dev@gmail.com
-	signingkey = 1A1DCDA4862DF3B8
+	#signingkey = 1A1DCDA4862DF3B8
 
 [github]
-  user = edheltzel
+  user = arjaygallentes
 
 [credential]
   helper = osxkeychain
@@ -33,7 +33,7 @@
 
 [core]
   excludesfile = ~/.gitignore_global
-  editor       = code-insiders --wait
+  editor       = code --wait
   # editor       = code -w
   #editor       = nvim
   mergeoptions = --no-ff --no-commit
@@ -64,14 +64,14 @@
   tool = vscode
 
 [difftool "vscode"]
-  cmd = code-insiders --wait --diff $LOCAL $REMOTE
+  cmd = code --wait --diff $LOCAL $REMOTE
 
 [merge]
   tool = vscode
   log  = true
 
 [mergetool "vscode"]
-  cmd = code-insiders --wait $MERGED
+  cmd = code --wait $MERGED
 
 [apply]
   #Detect whitespace errors when applying a patch
@@ -200,7 +200,7 @@ downtags = fetch --tags
   tabsize          = 2
 
 [commit]
-  gpgsign = true
+  gpgsign = false
 
 [suer]
   signingkey = 6C9732CDD2C37024

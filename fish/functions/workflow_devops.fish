@@ -45,7 +45,7 @@ end
 # end
 
 # Editors
-alias code="code-insiders"
+alias code="code"
 alias mux="tmux"
 alias vim="nvim"
 
