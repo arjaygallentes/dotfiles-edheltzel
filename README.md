@@ -1,3 +1,7 @@
+[![install](https://github.com/arjaygallentes/dotfiles-edheltzel/actions/workflows/install.yml/badge.svg?branch=master)](https://github.com/arjaygallentes/dotfiles-edheltzel/actions/workflows/install.yml)
+
+---
+
 <img src="_images/dotfiles-logo.png" alt="dotfiles logo" width="350">
 
 ---
